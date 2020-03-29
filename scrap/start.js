@@ -12,10 +12,10 @@ const getUrls = async () => {
   await page.goto(config.url);
   await page.content().then(function(html) {
     const $ = cheerio.load(html);
-    $("#nav td").each(function() {
+    $(".AaVjTc tbody tr td").each(function() {
       let url = $(this)
-        .find("a")
-        .attr("href");
+      .find("a")
+      .attr("href");
 
       if (url != undefined) {
         let VerifyUrl = arrayUrls.filter(function(element) {
@@ -83,7 +83,9 @@ const getinformation = async url => {
         .text();
 
       fs.appendFileSync(
-        "./scrap/results/scrap_" + new Date().toLocaleDateString() + ".txt",
+        // "./scrap/results/scrap_" + new Date().toLocaleDateString() + ".txt",
+        "./scrap/results/scrap_" + new Date() + ".txt",
+
         "\n------------------------------------------------------------------------------------------" +
           "\nnome     : " +
           name +
