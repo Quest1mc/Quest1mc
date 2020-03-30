@@ -1,0 +1,101 @@
+
+------------------------------------------------------------------------------------------
+nome     : Stidoli Tandartspraktijk
+ranking  : 
+endereco : 020 664 0606
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts.mobi
+ranking  : 
+endereco : 020 662 0385
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartsen Praktijk Amsterdam Watergraafsmeer
+ranking  : 4,1
+endereco : 020 398 3131
+Telefone : Geopend ⋅ Sluit om 16:30
+------------------------------------------------------------------------------------------
+nome     : Bogaard Kliniek
+ranking  : 
+endereco : 020 261 7670
+Telefone : Geopend ⋅ Sluit om 17:30
+------------------------------------------------------------------------------------------
+nome     : NovaDental
+ranking  : 3,7
+endereco : 020 811 0404
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Bellamy Tandartspraktijk
+ranking  : 4,2
+endereco : 020 786 0941
+Telefone : Gesloten ⋅ Opent op di om 10:00Gesloten
+------------------------------------------------------------------------------------------
+nome     : Spoed tandarts 7/11
+ranking  : 
+endereco : 020 471 2866
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts Amsterdam
+ranking  : 
+endereco : 020 261 0815
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Dental Care Oosterpark
+ranking  : 4,6
+endereco : 020 694 8327
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk P.H.G. Louwerse
+ranking  : 4,7
+endereco : 020 737 1024
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts Amsterdam West B.V.
+ranking  : 4,7
+endereco : 020 386 8304
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Florens Tandartsen
+ranking  : 4,8
+endereco : 020 358 6966
+Telefone : Geopend ⋅ Sluit om 20:00
+------------------------------------------------------------------------------------------
+nome     : Welldent Mokum
+ranking  : 5,0
+endereco : 020 210 5777
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Benner Brinkman Tandarts
+ranking  : 4,3
+endereco : 020 362 3623
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandarts voor orthodontie Avondortho
+ranking  : 5,0
+endereco : 020 471 3137
+Telefone : Geopend ⋅ Sluit om 21:30
+------------------------------------------------------------------------------------------
+nome     : Oostdent Tandheelkundig Centrum
+ranking  : 3,2
+endereco : 020 463 2489
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Fung-A-Yu
+ranking  : 4,8
+endereco : 020 618 3567
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartsen Praktijk Amsterdam Jordaan
+ranking  : 4,2
+endereco : 020 398 3131
+Telefone : Geopend ⋅ Sluit om 15:30
+------------------------------------------------------------------------------------------
+nome     : Centrum Bijzondere Tandheelkunde
+ranking  : 5,0
+endereco : 020 590 1666
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Sensadent Tandartsen, Tandartspraktijk
+ranking  : 4,8
+endereco : 020 618 7200
+Telefone : Geopend ⋅ Sluit om 17:00

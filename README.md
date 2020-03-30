@@ -58,3 +58,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 - Inspiration
   - sometimes we need some quick and massive contacts, so the initiative to create and scrap information from the largest Google search engine
+
+
+to do 
+change the way the info is loaded and scraped to english or at least use the currunt scrap setting to update properly 
+name
+phone
+website
+address
+reviews
+ranking

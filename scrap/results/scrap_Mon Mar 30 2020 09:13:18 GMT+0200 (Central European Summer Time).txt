@@ -1,0 +1,301 @@
+
+------------------------------------------------------------------------------------------
+nome     : Tandartsenpraktijk Roelof Hart
+ranking  : 5,0
+endereco : 020 675 7888
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk D.H. Kolstee
+ranking  : 
+endereco : 020 675 2553
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : A J Michels Tandartspraktijk BV
+ranking  : 5,0
+endereco : 020 662 3914
+Telefone : Geopend ⋅ Sluit om 17:30
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Van der Peet VOF
+ranking  : 5,0
+endereco : 020 664 8844
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk L.H. Tan
+ranking  : 
+endereco : 020 671 5777
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartsenpraktijk Fletterman | Cosmetische tandheelkunde tandarts in Rivierenbuurt / Buitenveldert
+ranking  : 5,0
+endereco : 020 664 3704
+Telefone : Geopend ⋅ Sluit om 16:30
+------------------------------------------------------------------------------------------
+nome     : Tandarts S. van der Ploeg
+ranking  : 5,0
+endereco : 020 676 9636
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tutein Nolthenius Tandarts
+ranking  : 
+endereco : 06 12235505
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts Makkinga B.V.
+ranking  : 
+endereco : 020 496 3414
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Amsterdamse Tandartspraktijk Leidseplein
+ranking  : 2,8
+endereco : 020 625 5930
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : De Tanden Kliniek
+ranking  : 4,2
+endereco : 020 471 4140
+Telefone : Geopend ⋅ Sluit om 16:30
+------------------------------------------------------------------------------------------
+nome     : Tandartsenpraktijk J A Smeets
+ranking  : 3,7
+endereco : 020 664 2333
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Warmelink B.V.
+ranking  : 5,0
+endereco : 020 662 5361
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : Amsterdamse Kliniek voor Cosmetische Tandheelkunde en Implantologie
+ranking  : 4,2
+endereco : 020 671 3886
+Telefone : Geopend ⋅ Sluit om 16:30
+------------------------------------------------------------------------------------------
+nome     : Tandprothetische Praktijk 4Dental Amsterdam
+ranking  : 
+endereco : 088 321 1111
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Minervalaan B.V.
+ranking  : 4,3
+endereco : 020 662 0385
+Telefone : Geopend ⋅ Sluit om 18:00
+------------------------------------------------------------------------------------------
+nome     : Amstel Dental
+ranking  : 4,7
+endereco : 020 723 5353
+Telefone : Geopend ⋅ Sluit om 16:30
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Boogaard
+ranking  : 
+endereco : 020 664 2882
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tendens tandartsen
+ranking  : 4,1
+endereco : 020 664 3888
+Telefone : Geopend ⋅ Sluit om 21:00
+------------------------------------------------------------------------------------------
+nome     : P.A.W.F. van Buren
+ranking  : 
+endereco : 020 664 2332
+Telefone : Gesloten ⋅ Opent op di om 08:30Gesloten
+------------------------------------------------------------------------------------------
+nome     : Tp-walvis
+ranking  : 5,0
+endereco : 020 679 0398
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : J.F.M. van der Post Tandarts B.V.
+ranking  : 4,7
+endereco : 020 623 3527
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Muiderpoort
+ranking  : 4,4
+endereco : 020 663 3888
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Iankovitch
+ranking  : 4,7
+endereco : 020 470 1008
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandprothetische Praktijk TTH Bilderdijk - Amsterdam
+ranking  : 5,0
+endereco : 020 683 4230
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts TTH Oldenbarneveldt
+ranking  : 2,7
+endereco : 020 683 4230
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk de Clercqstraat
+ranking  : 5,0
+endereco : 020 618 3876
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : E.C. Tromp, Tandarts
+ranking  : 
+endereco : 
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts Gezelle Meerburg
+ranking  : 
+endereco : 06 23761568
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts van der Linden
+ranking  : 
+endereco : 020 846 2390
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk De Liefde Amsterdam
+ranking  : 4,5
+endereco : 020 614 0053
+Telefone : Tijdelijk geslotenTijdelijk gesloten
+------------------------------------------------------------------------------------------
+nome     : Tandarts Muijsers
+ranking  : 5,0
+endereco : 020 676 2576
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Schijvens Tandarts
+ranking  : 5,0
+endereco : 020 676 4282
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : A.J. Döpp Tandarts
+ranking  : 5,0
+endereco : 020 663 5862
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Drs. J.K. Heijboer
+ranking  : 
+endereco : 020 420 5137
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Dental Factory Amsterdam
+ranking  : 4,5
+endereco : 020 618 0074
+Telefone : Tijdelijk geslotenTijdelijk gesloten
+------------------------------------------------------------------------------------------
+nome     : Tand Oost
+ranking  : 4,9
+endereco : 020 737 1622
+Telefone : Geopend ⋅ Sluit om 20:00
+------------------------------------------------------------------------------------------
+nome     : Aemstelgroep Tandartsen - Middenweg
+ranking  : 
+endereco : 020 445 5005
+Telefone : Geopend ⋅ Sluit om 19:00
+------------------------------------------------------------------------------------------
+nome     : Oudhof Tandartsen
+ranking  : 5,0
+endereco : 020 662 9489
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : Maatschap voor tandheelkunde Amsterdam
+ranking  : 5,0
+endereco : 020 616 7090
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : TandHart - Amsterdam Indische buurt tandartspraktijk
+ranking  : 4,8
+endereco : 085 483 7300
+Telefone : Gesloten ⋅ Opent op di om 08:30Gesloten
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk R.N. Vermeulen B.V.
+ranking  : 
+endereco : 020 615 2768
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Diemen-Zuid
+ranking  : 3,6
+endereco : 020 695 3131
+Telefone : Geopend ⋅ Sluit om 16:00
+------------------------------------------------------------------------------------------
+nome     : Tandarts Ton Döpp
+ranking  : 
+endereco : 020 663 5862
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Rembrandt
+ranking  : 4,6
+endereco : 020 226 0032
+Telefone : Geopend ⋅ Sluit om 20:00
+------------------------------------------------------------------------------------------
+nome     : TandHart - Amsterdam Noord tandartspraktijk
+ranking  : 3,7
+endereco : 085 483 7300
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Diemen-Noord
+ranking  : 4,0
+endereco : 020 695 0376
+Telefone : Nu geopend
+------------------------------------------------------------------------------------------
+nome     : Mondzorg Poli
+ranking  : 4,0
+endereco : 020 723 4848
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandarts I.J.H Helstone
+ranking  : 5,0
+endereco : 020 404 2282
+Telefone : Gesloten ⋅ Opent op wo om 15:00Gesloten
+------------------------------------------------------------------------------------------
+nome     : Tandarts Oliai
+ranking  : 3,0
+endereco : 020 615 6980
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Dental Da Vinci
+ranking  : 4,1
+endereco : 020 633 1411
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandarts S.P. Parsan
+ranking  : 
+endereco : 06 41182949
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : R.J.W. Koole Tandarts
+ranking  : 
+endereco : 020 672 0299
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Drs. Vanessa Hoppe Tandarts
+ranking  : 
+endereco : 020 665 6318
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Rene
+ranking  : 3,1
+endereco : 020 610 2883
+Telefone : Geopend ⋅ Sluit om 17:00
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk J. Punter
+ranking  : 
+endereco : 020 699 1065
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartspraktijk Renes
+ranking  : 4,0
+endereco : 020 408 1871
+Telefone : Geopend ⋅ Sluit om 16:00
+------------------------------------------------------------------------------------------
+nome     : Lefebvre, tandarts
+ranking  : 
+endereco : 020 445 5005
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Biologische Tandarts Martin Meijer
+ranking  : 
+endereco : 020 760 4050
+Telefone : 
+------------------------------------------------------------------------------------------
+nome     : Tandartsenpraktijk Van de Veer Osdorp
+ranking  : 2,9
+endereco : 020 610 8384
+Telefone : Geopend ⋅ Sluit om 17:00
